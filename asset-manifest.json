@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Voice_GPT/static/css/main.1dbd2800.css",
+    "main.js": "/Voice_GPT/static/js/main.e1e0b3af.js",
+    "static/js/787.e7cde4d1.chunk.js": "/Voice_GPT/static/js/787.e7cde4d1.chunk.js",
+    "static/media/gemini.jpg": "/Voice_GPT/static/media/gemini.f96257c9e032933ce0f2.jpg",
+    "static/media/leave.png": "/Voice_GPT/static/media/leave.370e9b48d5280c9ed0e3.png",
+    "static/media/t.png": "/Voice_GPT/static/media/t.545030915a81abea5536.png",
+    "static/media/microphone.png": "/Voice_GPT/static/media/microphone.964cc8edb7f41a1a22ca.png",
+    "static/media/house.png": "/Voice_GPT/static/media/house.1291de7a99c8b8f5f945.png",
+    "static/media/login.png": "/Voice_GPT/static/media/login.9bea97b7255496fac3bc.png",
+    "index.html": "/Voice_GPT/index.html",
+    "main.1dbd2800.css.map": "/Voice_GPT/static/css/main.1dbd2800.css.map",
+    "main.e1e0b3af.js.map": "/Voice_GPT/static/js/main.e1e0b3af.js.map",
+    "787.e7cde4d1.chunk.js.map": "/Voice_GPT/static/js/787.e7cde4d1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1dbd2800.css",
+    "static/js/main.e1e0b3af.js"
+  ]
+}
